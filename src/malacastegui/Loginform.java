@@ -195,7 +195,7 @@ txtPassword = new JPasswordField();
     }// </editor-fold>//GEN-END:initComponents
 
     private void usernameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_usernameActionPerformed
-        // TODO add your handling code here:
+       
     }//GEN-LAST:event_usernameActionPerformed
 
     private void LogButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LogButtonActionPerformed
@@ -214,20 +214,20 @@ txtPassword = new JPasswordField();
     }//GEN-LAST:event_LogButtonActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        // TODO add your handling code here:
+      
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton2MouseClicked
-        // Hide the current form (optional, if you want to close the current form)
-    this.setVisible(false); // Or you could use this.dispose();
+   
+    this.setVisible(false); 
 
-    // Create and show the registration form
+    
     RegistrationForm registrationForm = new RegistrationForm();
     registrationForm.setVisible(true);
     }//GEN-LAST:event_jButton2MouseClicked
 
     private void jLabel1AncestorMoved(java.awt.event.HierarchyEvent evt) {//GEN-FIRST:event_jLabel1AncestorMoved
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_jLabel1AncestorMoved
 
     private void jCheckBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox1ActionPerformed
